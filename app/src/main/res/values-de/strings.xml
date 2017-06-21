@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi-language</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome">Willkommen!</string>
+    <string name="email">Email Addresse</string>
+    <string name="password">passowrd</string>
+    <string name="login">Login</string>
+    <string name="signup">müssen nicht angemeldet? Anmeldung</string>
+</resources>
